@@ -21,7 +21,7 @@ Evaluasi metrik yang akan digunakan adalah RMSE, MAE, dan MAPE, di mana RMSE ada
     - 'model__regressor__max_depth': 10,
     - 'model__regressor__learning_rate': 0.12,
     - 'model__regressor__colsample_bytree': 0.9
-  - Hyperpamater tuning kedua membuat performa model meingkat:
+  - Hyperpamater tuning kedua membuat performa model meningkat:
     - RMSE, MAE & MAPE sebelum tuning : 41.074, 25.589, 24.964%
     - RMSE, MAE & MAPE setelah tuning 1 : 45.089, 27.670, 26.445%
     - RMSE, MAE & MAPE setelah tuning 2 : 39.582, 24.215, 24.843%
